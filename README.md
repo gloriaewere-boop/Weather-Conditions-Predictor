@@ -1,4 +1,4 @@
-# 🌦️ Weather Conditions Predictor (Week 10)
+# 🌦️ Weather Conditions Predictor 
 
 This project predicts simple weather conditions — **Dry**, **Rainy**, or **Snowy** — from a local weather dataset.
 
